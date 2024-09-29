@@ -28,7 +28,7 @@ We built "Rate your Pitt Meal" using a combination of AI technologies and data r
 ## Challenges we ran into
 One of the main challenges was ensuring that the AI model could accurately interpret and apply scientific research from PubMed to individual health cases. We also had to work on optimizing the chain-of-thought reasoning in Gemini to ensure that it evaluated meals logically and provided consistent results. Additionally, integrating the Pitt Dining app’s nutrition data into our platform in a user-friendly way while maintaining accuracy was challenging. Ensuring the scalability and responsiveness of the system with real-time data was also a significant hurdle.
 
-## Accomplishments that we're proud of
+## 😊Accomplishments that we're proud of
 We’re proud of the successful integration of advanced AI with real-world applications, such as the Pitt Dining app and PubMed data. Creating a system that not only evaluates the healthiness of meals but also provides scientifically-backed and personalized dietary recommendations is a significant accomplishment. The user-friendly interface that allows students to easily assess their meals and receive actionable feedback is another highlight we’re particularly proud of.
 
 ## What we learned
