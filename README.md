@@ -7,7 +7,7 @@ All the items under the branch Niki includes the python resposible for getting a
 
 All the items under the branch Angelina includes the front end of the project with the website interface all made from html and css.
 
-[Watch the video](https://youtu.be/Q1VPwzsQHpY?feature=shared)
+[![Video Label](http://img.youtube.com/vi/Q1VPwzsQHpY/0.jpg)]
 ## Contributors
 Angelina Riveros (anr463@pitt.edu)  
 Nicky Chung (nic216@pitt.edu)  
