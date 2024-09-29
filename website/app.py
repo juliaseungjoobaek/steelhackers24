@@ -10,7 +10,6 @@ def submit():
     
     result = subprocess.run(['python3', '/home/yoojin.baek/steelhackers/src/main.py', dish], capture_output=True, text=True)
     
-    # main.py의 처리 결과를 출력
     output = result.stdout
     
     return f"Dish received and processed by main.py: {output}"
