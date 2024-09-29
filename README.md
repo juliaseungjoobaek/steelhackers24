@@ -20,6 +20,8 @@ The inspiration for "Rate your Pitt Meal" came from the need for college student
 "Rate your Pitt Meal" is a personalized nutrition assessment platform that evaluates the healthiness of meals based on an individual’s personal information and the nutritional content of the food from the Pitt Dining app. The platform uses advanced AI models like Gemini to assess meals using chain-of-thought reasoning and integrates PubMed-based scientific insights through Llama-Index to provide users with a scientifically-backed health score. It also offers personalized dietary recommendations tailored to each user’s health profile and goals, supported by the latest research from PubMed, which is summarized by Gemini for clear, actionable feedback.
 
 ## How we built it
+<img width="873" alt="Screenshot 2024-09-29 110359" src="https://github.com/user-attachments/assets/006690ca-02ec-4dc8-b2c4-eef52e31502b">
+
 We built "Rate your Pitt Meal" using a combination of AI technologies and data retrieval systems. The backend is powered by Gemini-based models, which utilize chain-of-thought reasoning to evaluate the healthiness of meals. The Llama-Index serves as the retrieval system for relevant PubMed data, allowing us to integrate scientific findings into the evaluations and recommendations. We also integrated the Pitt Dining app’s nutritional data directly into the system for easy meal tracking. The frontend was developed using React, while the backend relies on Python and Flask to manage the AI interactions and data processing.
 
 ## Challenges we ran into
