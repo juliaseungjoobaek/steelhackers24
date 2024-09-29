@@ -1,0 +1,216 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Roboto Condensed", sans-serif;
+  scroll-behavior: smooth;
+  background-color: #f7f7e8;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 14pt;
+}
+
+h2 {
+  text-indent: 10%;
+  font-size: 36pt;
+  color: #557174;
+  
+}
+
+h3 {
+  text-indent: 10%;
+  font-size: 36pt;
+  color: #557174;
+}
+
+p {
+  line-height: 25px;
+  color: #555652;
+}
+
+a {
+  text-decoration: none;
+  color: #f7f7e8;
+}
+
+/* The navigation bar */
+
+.nav {
+  position: sticky;
+  list-style-type: none;
+  background-color: #557174;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 10px;
+  height: 80px;
+}
+
+.nav li {
+  color: #969b8c;
+  font-size: 14pt;
+  padding: 15px 20px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav li a:hover {
+  color: grey;
+  cursor: pointer;
+}
+
+.nav-logo {
+  display: block;
+  float: left;
+  /* margin-top: 30px; */
+}
+
+.nav-links {
+  float: right;
+  margin-top: 30px;
+}
+
+/* The index section */
+
+h1 {
+  text-align: center;
+  color: #9dad7f;
+  font-size: 60pt;
+  margin-top: 10%;
+}
+
+.home-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* The mission section */
+
+.section2 {
+  display: block;
+  height: 80%;
+  padding: 5% 30% 10% 30%;
+}
+
+/* Output section */
+
+.section4 {
+  display: block;
+  padding: 5% 30% 10% 30%;
+}
+
+.section4 img {
+  margin: 35px 10px;
+}
+
+/* Food input .section4 */
+
+.section1 {
+  padding: 5% 30% 10% 30%;
+}
+
+.section1-text ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 50px;
+  color: #969b8c;
+}
+
+.section1-text ul li p:first-of-type {
+  font-weight: bold;
+  font-size: 16pt;
+  color: #969b8c;
+}
+
+/* The about section */
+
+.section3 {
+  display: block;
+  margin: 0 10%;
+  padding-top: 5%;
+}
+
+.cards {
+  display: inline-flex;
+}
+
+.card {
+  margin: 25px
+}
+
+/* button info */
+
+.indexButton {
+  text-align: center;
+}
+
+button {
+  border: 20xp;
+  border-color: #557174 ;
+  color: #557174;
+  background-color: #9dad7f;
+  padding: 15px 32px;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 20pt;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.mainPageButton {
+  text-align: center;
+}
+
+.otherIndexButtons{
+  color: #557174;
+  background-color: #9dad7f;
+  padding: 15px 32px;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 20pt;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  text-indent: 0%;
+}
+
+form {
+  text-align: center;
+  color: #557174;
+}
+
+.section5{
+  text-align: center;
+  color: #557174;
+}
+
+.mainpageButton{
+  text-align: center;
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.btn.selected {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
