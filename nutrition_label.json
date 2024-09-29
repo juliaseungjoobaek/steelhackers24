@@ -1,0 +1,115 @@
+{
+    "Flourish":{
+        "Fresh Roasted Beets": {"Calories": 60, "Protein": 2, "Carbohydrates": 9, "Sugar": 7, "Fat": 2.5, "Dietary Fiber": 2, "Sodium": 210},
+        "Sliced Green Bell Pepper": {"Calories": 0, "Protein": 0, "Carbohydrates": 1, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0},
+        "Shredded Carrots": {"Calories": 10, "Protein": 0, "Carbohydrates": 3, "Sugar": 1, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 20},
+        "Steamed Cauliflower": {"Calories": 25, "Protein": 2, "Carbohydrates": 5, "Sugar": 2, "Fat": 0, "Dietary Fiber": 2, "Sodium": 25},
+        "Roasted Corn": {"Calories": 60, "Protein": 0.5, "Carbohydrates": 7, "Sugar": 1, "Fat": 3.5, "Dietary Fiber": 0.5, "Sodium": 0},
+        "SLiced Cucumber": {"Calories": 0, "Protein": 0, "Carbohydrates": 0.5, "Sugar": 0, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0},
+        "Mixed Field Greens": {"Calories": 10, "Protein": 0.5, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Sliced Mushrooms": {"Calories": 0, "Protein": 0.5, "Carbohydrates": 1.5, "Sugar": 0, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0},
+        "Steamed Peas": {"Calories": 90, "Protein": 6, "Carbohydrates": 17, "Sugar": 5, "Fat": 0, "Dietary Fiber": 0, "Sodium": 85},
+        "Sliced Red Onion": {"Calories": 10, "Protein": 0, "Carbohydrates": 3, "Sugar": 1, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0},
+        "Sugar Snap Peas": {"Calories": 10, "Protein": 0.5, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Diced Tomatos": {"Calories": 0, "Protein": 0, "Carbohydrates": 1, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0},
+        "Quinoa": {"Calories": 110, "Protein": 4, "Carbohydrates": 19, "Sugar": 0.8, "Fat": 2, "Dietary Fiber": 2, "Sodium": 65},
+        "Wild Rice": {"Calories": 40, "Protein": 2, "Carbohydrates": 9, "Sugar": 0, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Cooked Lentils": {"Calories": 110, "Protein": 8, "Carbohydrates": 21, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 3, "Sodium": 5},
+        "Roasted Moroccan Chickpeas": {"Calories": 240, "Protein": 12, "Carbohydrates": 33, "Sugar": 6, "Fat": 8, "Dietary Fiber": 11, "Sodium": 430},
+        "Spicy Cilatro Lime Dressing": {"Calories": 150, "Protein": 0, "Carbohydrates": 2, "Sugar": 1, "Fat": 16, "Dietary Fiber": 0, "Sodium": 70},
+        "Greek Dressing": {"Calories": 35, "Protein": 0, "Carbohydrates": 2, "Sugar": 0, "Fat": 3, "Dietary Fiber": 0, "Sodium": 30},
+        "Lemon Oregano": {"Calories": 170, "Protein": 0, "Carbohydrates": 2, "Sugar": 2, "Fat": 18, "Dietary Fiber": 0, "Sodium": 45},
+        "Aquafaba Ranch Aioli": {"Calories": 180, "Protein": 0, "Carbohydrates": 0.5, "Sugar": 0, "Fat": 20, "Dietary Fiber": 0, "Sodium": 135},
+        "Fat Free Rasberry Dressing": {"Calories": 30, "Protein": 0, "Carbohydrates": 8, "Sugar": 7, "Fat": 0, "Dietary Fiber": 0, "Sodium": 75}
+    },
+
+    "Food Trunk":{
+        "Potato & Cheese Pierogies": {"Calories": 240, "Protein": 14, "Carbohydrates": 28, "Sugar": 2, "Fat": 8, "Dietary Fiber": 3, "Sodium": 550},
+        "Kielbasa": {"Calories": 290, "Protein": 9, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 28, "Dietary Fiber": 0, "Sodium": 890},
+        "Sauerkraut": {"Calories": 5, "Protein": 0, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 1, "Sodium": 240},
+        "Crispy Bacon Bits": {"Calories": 35, "Protein": 2, "Carbohydrates": 0, "Sugar": 0, "Fat": 2.5, "Dietary Fiber": 0, "Sodium": 120},
+        "Caramelized Onions": {"Calories": 35, "Protein": 0, "Carbohydrates": 3, "Sugar": 1, "Fat": 3, "Dietary Fiber": 0.5, "Sodium": 0}
+    },
+
+    "Briny Pickle":{
+        "Tomato Soup": {"Calories": 30, "Protein": 0, "Carbohydrates": 6, "Sugar": 3, "Fat": 0.5, "Dietary Fiber": 2, "Sodium": 55},
+        "Creamy Cheeseburger Soup": {"Calories": 280, "Protein": 11, "Carbohydrates": 13, "Sugar": 2, "Fat": 21, "Dietary Fiber": 1, "Sodium": 280},
+        "Grilled Three Cheese Melt": {"Calories": 410, "Protein": 17, "Carbohydrates": 31, "Sugar": 3, "Fat": 25, "Dietary Fiber": 1, "Sodium": 880},
+        "Turkey and Swiss Ciabatta": {"Calories": 600, "Protein": 35, "Carbohydrates": 52, "Sugar": 2, "Fat": 27, "Dietary Fiber": 4, "Sodium": 1670},
+        "Dill Pickle Spears": {"Calories": 0, "Protein": 0, "Carbohydrates": 0.5, "Sugar": 0, "Fat": 0, "Dietary Fiber": 0, "Sodium": 240},
+        "Fresh Dill Pickle Slices": {"Calories": 5, "Protein": 0, "Carbohydrates": 1, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0, "Sodium": 220},
+        "Mediterranean Pasta Salad": {"Calories": 210, "Protein": 5, "Carbohydrates": 26, "Sugar": 4, "Fat": 10, "Dietary Fiber": 3, "Sodium": 570},
+        "Lemon Dill Potato Salad": {"Calories": 140, "Protein": 2, "Carbohydrates": 14, "Sugar": 2, "Fat": 9, "Dietary Fiber": 2, "Sodium": 210},
+        "Coleslaw": {"Calories": 80, "Protein": 1, "Carbohydrates": 7, "Sugar": 3, "Fat": 5, "Dietary Fiber": 2, "Sodium": 320}
+    },
+
+    "Farm Stand":{
+        "Low Fat Blueberry Yogurt": {"Calories": 35, "Protein": 1, "Carbohydrates": 7, "Sugar": 5, "Fat": 0, "Dietary Fiber": 0, "Sodium": 20},
+        "Low Fat Strawberry Yogurt": {"Calories": 70, "Protein": 2, "Carbohydrates": 15, "Sugar": 10, "Fat": 0, "Dietary Fiber": 0, "Sodium": 35},
+        "Overnight Oats with Oat Milk": {"Calories": 150, "Protein": 5, "Carbohydrates": 23, "Sugar": 1, "Fat": 4.5, "Dietary Fiber": 4, "Sodium": 220},
+        "Mandarin Orange": {"Calories": 35, "Protein": 0.5, "Carbohydrates": 9, "Sugar": 7, "Fat": 0, "Dietary Fiber": 1, "Sodium": 0},
+        "Sliced Peaches": {"Calories": 20, "Protein": 0, "Carbohydrates": 4, "Sugar": 4, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "2% Greek Plain Yogurt": {"Calories": 90, "Protein": 11, "Carbohydrates": 5, "Sugar": 5, "Fat": 2.5, "Dietary Fiber": 0, "Sodium": 35},
+        "Oats'n Honey Granola": {"Calories": 20, "Protein": 0, "Carbohydrates": 3, "Sugar": 1, "Fat": 1, "Dietary Fiber": 0, "Sodium": 15},
+        "Blueberries": {"Calories": 20, "Protein": 0, "Carbohydrates": 5, "Sugar": 3, "Fat": 0, "Dietary Fiber": 1, "Sodium": 0},
+        "Roasted Sunflower Seeds": {"Calories": 45, "Protein": 2, "Carbohydrates": 2, "Sugar": 0, "Fat": 4, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Pumpkin Seeds": {"Calories": 80, "Protein": 4, "Carbohydrates": 2, "Sugar": 0, "Fat": 7, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Honeydew and Cantaloupe": {"Calories": 15, "Protein": 0, "Carbohydrates": 4, "Sugar": 3, "Fat": 0, "Dietary Fiber": 0, "Sodium": 5},
+        "Red Seedless Grapes": {"Calories": 25, "Protein": 0, "Carbohydrates": 7, "Sugar": 6, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0},
+        "Cubed Honeydew": {"Calories": 15, "Protein": 0, "Carbohydrates": 4, "Sugar": 3, "Fat": 0, "Dietary Fiber": 0, "Sodium": 10},
+        "Cubed Pineapple": {"Calories": 20, "Protein": 0, "Carbohydrates": 5, "Sugar": 4, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Cubed Cantaloupe": {"Calories": 15, "Protein": 0, "Carbohydrates": 3, "Sugar": 3, "Fat": 0, "Dietary Fiber": 0, "Sodium": 5},
+        "Ground Cinnamon": {"Calories": 5, "Protein": 0, "Carbohydrates": 2, "Sugar": 0, "Fat": 0, "Dietary Fiber": 1, "Sodium": 0}
+    },
+
+    "Table 33": {
+        "Crispy Tortilla Chips": {"Calories": 170, "Protein": 4, "Carbohydrates": 35, "Sugar": 0.5, "Fat": 2.5, "Dietary Fiber": 5, "Sodium": 115},
+        "Chicken Tinga": {"Calories": 120, "Protein": 13, "Carbohydrates": 4, "Sugar": 2, "Fat": 6, "Dietary Fiber": 1, "Sodium": 55},
+        "Jalapeno Queso": {"Calories": 300, "Protein": 17, "Carbohydrates": 8, "Sugar": 6, "Fat": 22, "Dietary Fiber": 0.5, "Sodium": 630},
+        "Pico de Gallo": {"Calories": 5, "Protein": 0, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0, "Sodium": 20},
+        "Chopped Green Onions": {"Calories": 10, "Protein": 0, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Chimichurri": {"Calories": 90, "Protein": 0, "Carbohydrates": 0.5, "Sugar": 0, "Fat": 10, "Dietary Fiber": 0, "Sodium": 0},
+        "Chile de Arbol Salsa": {"Calories": 10, "Protein": 0, "Carbohydrates": 2, "Sugar": 1, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 85},
+        "Tomatillo Salsa": {"Calories": 10, "Protein": 0, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 115}
+    },
+
+    "Kokumi": {
+        "Asian Braised Beef": {"Calories": 200, "Protein": 10, "Carbohydrates": 6, "Sugar": 3, "Fat": 15, "Dietary Fiber": 0.5, "Sodium": 310},
+        "Edamame Fried Rice": {"Calories": 100, "Protein": 4, "Carbohydrates": 15, "Sugar": 1, "Fat": 3.5, "Dietary Fiber": 2, "Sodium": 140},
+        "Cantonese Stir Fry": {"Calories": 45, "Protein": 1, "Carbohydrates": 6, "Sugar": 4, "Fat": 2, "Dietary Fiber": 1, "Sodium": 200},
+        "Chopped Green Onions": {"Calories": 10, "Protein": 0, "Carbohydrates": 2, "Sugar": 0.5, "Fat": 0, "Dietary Fiber": 0.5, "Sodium": 0},
+        "Mandarin Orange": {"Calories": 35, "Protein": 0.5, "Carbohydrates": 9, "Sugar": 7, "Fat": 0, "Dietary Fiber": 1, "Sodium": 0},
+        "Fortune Cookies": {"Calories": 20, "Protein": 0, "Carbohydrates": 5, "Sugar": 3, "Fat": 0, "Dietary Fiber": 0, "Sodium": 0}
+    },
+
+    "Saffron": {
+        "Hummus": {"Calories": 30, "Protein": 1, "Carbohydrates": 4, "Sugar": 0.5, "Fat": 1, "Dietary Fiber": 1, "Sodium": 65},
+        "Moroccan Chicken":{"Calories": 70, "Protein": 21, "Carbohydrates": 0.5, "Sugar": 0, "Fat": 9, "Dietary Fiber": 0, "Sodium": 240},
+        "Moroccan Spicy Vegetables": {"Calories": 30, "Protein": 2, "Carbohydrates": 6, "Sugar": 3, "Fat": 0, "Dietary Fiber": 2, "Sodium": 100},
+        "Pitted Dates": {"Calories": 80, "Protein": 0.5, "Carbohydrates": 21, "Sugar": 18, "Fat": 0, "Dietary Fiber": 2, "Sodium": 0}
+    },
+
+    "Cucina": {
+        "Mushroom \"Bolognese\" Lasagna": {"Calories": 260, "Protein": 12, "Carbohydrates": 27, "Sugar": 7, "Fat": 11, "Dietary Fiber": 3, "Sodium": 380},
+        "Cheese Pizza": {"Calories": 340, "Protein": 16, "Carbohydrates": 43, "Sugar": 3, "Fat": 11, "Dietary Fiber": 2, "Sodium": 740},
+        "White Pesto Pizza": {"Calories": 260, "Protein": 11, "Carbohydrates": 34, "Sugar": 2, "Fat": 9, "Dietary Fiber": 1, "Sodium": 510},
+        "Mushroom Pizza with Vegan Cheese": {"Calories": 200, "Protein": 5, "Carbohydrates": 27, "Sugar": 2, "Fat": 7, "Dietary Fiber": 1, "Sodium": 500}
+    },
+
+    "Cereal Bar": {
+        "Whole Milk": {"Calories": 150, "Protein": 8, "Carbohydrates": 12, "Sugar": 12, "Fat": 8, "Dietary Fiber": 0, "Sodium": 105},
+        "Milk, Lowfat, 2%": {"Calories": 120, "Protein": 8, "Carbohydrates": 12, "Sugar": 12, "Fat": 5, "Dietary Fiber": 0, "Sodium": 115},
+        "Milk, Skim": {"Calories": 80, "Protein": 8, "Carbohydrates": 12, "Sugar": 12, "Fat": 0, "Dietary Fiber": 0, "Sodium": 105},
+        "Chocolate Milk, Low Fat 1%": {"Calories": 190, "Protein": 7, "Carbohydrates": 30, "Sugar": 24, "Fat": 5, "Dietary Fiber": 2, "Sodium": 170},
+        "Golden Grahams": {"Calories": 160, "Protein": 2, "Carbohydrates": 34, "Sugar": 12, "Fat": 1, "Dietary Fiber": 2, "Sodium": 300},
+        "Cereal, Frosted Mini Wheats": {"Calories": 100, "Protein": 2, "Carbohydrates": 24, "Sugar": 6, "Fat": 0, "Dietary Fiber": 3, "Sodium": 0},
+        "Cheerios": {"Calories": 100, "Protein": 3, "Carbohydrates": 20, "Sugar": 1, "Fat": 2, "Dietary Fiber": 3, "Sodium": 140},
+        "Cocoa Puffs": {"Calories": 140, "Protein": 2, "Carbohydrates": 31, "Sugar": 12, "Fat": 2, "Dietary Fiber": 2, "Sodium": 130},
+        "Froot Loops": {"Calories": 110, "Protein": 2, "Carbohydrates": 26, "Sugar": 9, "Fat": 1, "Dietary Fiber": 2, "Sodium": 160},
+        "Rice Krispies": {"Calories": 100, "Protein": 2, "Carbohydrates": 24, "Sugar": 3, "Fat": 0, "Dietary Fiber": 0, "Sodium": 135},
+        "Rice Chex": {"Calories": 110, "Protein": 2, "Carbohydrates": 23, "Sugar": 2, "Fat": 0.5, "Dietary Fiber": 1, "Sodium": 220},
+        "Cinnamon Toast Crunch": {"Calories": 170, "Protein": 2, "Carbohydrates": 33, "Sugar": 12, "Fat": 4, "Dietary Fiber": 2, "Sodium": 230},
+        "Apple Jacks": {"Calories": 110, "Protein": 2, "Carbohydrates": 24, "Sugar": 9, "Fat": 1, "Dietary Fiber": 1, "Sodium": 150}
+    }
+
+}
