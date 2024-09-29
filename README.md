@@ -1,4 +1,4 @@
-# steelhackers24
+# Rate your Pitt_Meal
 
 Angelina Riveros (anr463@pitt.edu)  
 Nicky Chung (nic216@pitt.edu)  
