@@ -17,6 +17,7 @@ Julia Baek (seb337@pitt.edu)
 The inspiration for "Rate your Pitt Meal" came from the need for college students to make healthier eating choices amidst busy schedules and limited time to focus on nutrition. We wanted to create a tool that leverages AI and science to empower students to better understand the healthiness of their meals on campus. With so much nutritional information available, we aimed to simplify the process, helping students make more informed decisions quickly and easily.
 
 ## What is does
+![gemini](https://github.com/user-attachments/assets/0adafedd-da83-4bcf-b656-2b77fef54120)
 "Rate your Pitt Meal" is a personalized nutrition assessment platform that evaluates the healthiness of meals based on an individual’s personal information and the nutritional content of the food from the Pitt Dining app. The platform uses advanced AI models like Gemini to assess meals using chain-of-thought reasoning and integrates PubMed-based scientific insights through Llama-Index to provide users with a scientifically-backed health score. It also offers personalized dietary recommendations tailored to each user’s health profile and goals, supported by the latest research from PubMed, which is summarized by Gemini for clear, actionable feedback.
 
 ## How we built it
@@ -27,7 +28,7 @@ We built "Rate your Pitt Meal" using a combination of AI technologies and data r
 ## Challenges we ran into
 One of the main challenges was ensuring that the AI model could accurately interpret and apply scientific research from PubMed to individual health cases. We also had to work on optimizing the chain-of-thought reasoning in Gemini to ensure that it evaluated meals logically and provided consistent results. Additionally, integrating the Pitt Dining app’s nutrition data into our platform in a user-friendly way while maintaining accuracy was challenging. Ensuring the scalability and responsiveness of the system with real-time data was also a significant hurdle.
 
-# Accomplishments that we're proud of
+## Accomplishments that we're proud of
 We’re proud of the successful integration of advanced AI with real-world applications, such as the Pitt Dining app and PubMed data. Creating a system that not only evaluates the healthiness of meals but also provides scientifically-backed and personalized dietary recommendations is a significant accomplishment. The user-friendly interface that allows students to easily assess their meals and receive actionable feedback is another highlight we’re particularly proud of.
 
 ## What we learned
