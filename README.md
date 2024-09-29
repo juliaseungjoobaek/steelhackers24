@@ -17,6 +17,8 @@ Julia Baek (seb337@pitt.edu)
 The inspiration for "Rate your Pitt Meal" came from the need for college students to make healthier eating choices amidst busy schedules and limited time to focus on nutrition. We wanted to create a tool that leverages AI and science to empower students to better understand the healthiness of their meals on campus. With so much nutritional information available, we aimed to simplify the process, helping students make more informed decisions quickly and easily.
 
 ## What is does
+<img width="552" alt="Screenshot 2024-09-29 132938" src="https://github.com/user-attachments/assets/96f5fb69-699d-49bc-8c75-dc245623a7bc">
+
 ![gemini](https://github.com/user-attachments/assets/0adafedd-da83-4bcf-b656-2b77fef54120)
 "Rate your Pitt Meal" is a personalized nutrition assessment platform that evaluates the healthiness of meals based on an individual’s personal information and the nutritional content of the food from the Pitt Dining app. The platform uses advanced AI models like Gemini to assess meals using chain-of-thought reasoning and integrates PubMed-based scientific insights through Llama-Index to provide users with a scientifically-backed health score. It also offers personalized dietary recommendations tailored to each user’s health profile and goals, supported by the latest research from PubMed, which is summarized by Gemini for clear, actionable feedback.
 
