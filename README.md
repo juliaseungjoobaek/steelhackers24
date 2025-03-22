@@ -11,7 +11,7 @@ All the items under the branch Angelina includes the front end of the project wi
 ## Contributors
 Angelina Riveros (anr463@pitt.edu)  
 Nicky Chung (nic216@pitt.edu)  
-Julia Baek (seb337@pitt.edu)
+Julia Baek (juliabae@andrew.cmu.edu)
 
 ## Inspiration
 The inspiration for "Rate your Pitt Meal" came from the need for college students to make healthier eating choices amidst busy schedules and limited time to focus on nutrition. We wanted to create a tool that leverages AI and science to empower students to better understand the healthiness of their meals on campus. With so much nutritional information available, we aimed to simplify the process, helping students make more informed decisions quickly and easily.
